@@ -3,4 +3,4 @@ Project developed using Tailwind css and HTML to design a simple service oriente
 
 The design was inspired by some components for Dribble and Instagram. 
 
-The website can be viewed on: 
+The website can be viewed on: https://it-landing-page.vercel.app/
